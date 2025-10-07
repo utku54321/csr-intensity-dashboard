@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@types/react": "^19.2.2",
+    "react": "^19.2.0",
+    "recharts": "^2.13.3",
+    "xlsx": "^0.18.5"
+  }
+}
